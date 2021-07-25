@@ -1,0 +1,17 @@
+{
+  "name": "tutorial_cucumber-js",
+  "version": "1.0.0",
+  "description": "Tutorial Cucumber.js",
+  "main": "",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "Marty Zhang<marty8zhang@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.3.1",
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
